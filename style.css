@@ -1,0 +1,32 @@
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    color: aquamarine;
+    background-color: brown;
+    width: 100%;
+    line-height: 3;
+}
+
+canvas
+{
+    border: 5px solid wheat;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px orange;
+    margin: 0;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: orchid;
+}
+
+.note
+{
+    font-size: 15px;
+    color: green;
+}
